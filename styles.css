@@ -185,6 +185,18 @@ h3 {
     transform: rotate(-10deg);
 }
 /***************************************************/
+#steven {
+        background-color: #0089BA;
+        width: 200px;
+        height: 200px;
+        font-weight: bold;
+        transform:rotate(-10deg)
+}
+
+#grid-heading {
+    font-weight: bold;
+    
+}
 
 #Samuel.post-it{
     background-color: #0089BA;
@@ -241,6 +253,11 @@ li.post-it{
     .dashboard--layouts{
         grid-area: Layouts;
     }
+
+
+   
+}
+
 }
 
 .post-it{
@@ -281,3 +298,4 @@ li.post-it{
   }
 
 }
+
