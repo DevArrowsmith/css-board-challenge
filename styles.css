@@ -14,8 +14,17 @@ h3 {
 }
 
 .post-it {
+
+    box-shadow: 0 8px 6px -6px black;
+    list-style: none;
+    background-color: #ff6f91;
+    height: 200px;
+    aspect-ratio: 1:1;
+    transform: rotate(10deg);
+
   box-shadow: 0 8px 6px -6px black;
   list-style: none;
+
 
 }
 
@@ -119,6 +128,18 @@ h3 {
     font-weight: bold;
 }
 
+
+
+/***************************************************/
+/* SELECTORS */
+/***************************************************/  
+#ben {
+    height: 200px;
+    width: 200px;
+    background-color: #E0EA87;
+    transform: rotate(-5deg);
+}
+
 #cora p {
     font-family: 'Comforter', cursive;
 }
@@ -137,6 +158,7 @@ h3 {
     font-weight: bold;
 }
 
+
 #ash {
     width: 200px;
     height: 200px;
@@ -147,6 +169,7 @@ h3 {
 #ash h3 {
     font-weight: bold;
 }
+
 
 /***************************************************/
 /* MIXED */
