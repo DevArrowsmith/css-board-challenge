@@ -88,6 +88,7 @@ h3 {
 
 /* ===========CORA'S POST_IT========== */
 #cora {
+    box-sizing: border-box;
     height: 200px;
     aspect-ratio: 1;
     background-color: #E0EA87;
