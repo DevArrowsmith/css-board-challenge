@@ -16,6 +16,12 @@ h3 {
 .post-it {
   box-shadow: 0 8px 6px -6px black;
   list-style: none;
+    box-shadow: 0 8px 6px -6px black;
+    list-style: none;
+    height: 200px;
+    aspect-ratio: 1/1;
+    background-color: #FF6F91;
+    transform: rotate(-10deg);
 }
 
 .dashboard-frame {
@@ -79,6 +85,41 @@ h3 {
 
 #ed h3 {
   font-weight: bold;
+
+/* ===========CORA'S POST_IT========== */
+#cora {
+    height: 200px;
+    aspect-ratio: 1;
+    background-color: #E0EA87;
+    transform: rotate(-7deg);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+#cora h3 {
+    font-weight: bold;
+}
+
+#cora p {
+    font-family: 'Comforter', cursive;
+}
+/* ===========CORA'S POST_IT========== */
+
+
+/***************************************************/  
+#chrissy {
+    aspect-ratio: 1;
+    height: 200px;
+    background-color: #e0ea87;
+    transform: rotate(-10deg);
+}
+
+.post-it h3 {
+    font-weight: bold;
 }
 
 /***************************************************/
