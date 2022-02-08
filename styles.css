@@ -14,18 +14,15 @@ h3 {
 }
 
 .post-it {
-
-    box-shadow: 0 8px 6px -6px black;
-    list-style: none;
-    background-color: #ff6f91;
-    height: 200px;
-    aspect-ratio: 1:1;
-    transform: rotate(10deg);
-
   box-shadow: 0 8px 6px -6px black;
   list-style: none;
-
-
+  background-color: #ff6f91;
+  height: 200px;
+  aspect-ratio: 1 / 1;
+  transform: rotate(10deg);
+  box-shadow: 0 8px 6px -6px black;
+  list-style: none;
+  margin-bottom: 20px;
 }
 
 .dashboard-frame {
@@ -55,12 +52,12 @@ h3 {
   transform: rotate(-2deg);
 }
 
-.dashboard--selectors,
-.dashboard--properties,
-.dashboard--layouts {
+
+.dashboard--section {
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-width: 300px;
 
 }
 
