@@ -107,3 +107,45 @@ h3 {
         grid-area: Layouts;
     }
 }
+h2 {
+    margin: 20px auto;
+    font-family: 'Lato';
+    background:#666;
+    color:rgb(0, 0, 0);
+  }
+   
+  *{
+    margin:0;
+    padding:0;
+  }
+   
+  h2 {
+    font-weight: bold;
+    font-size: 2rem;
+  }
+   
+  p {
+    font-size: 1rem;
+    font-weight: normal;
+  }
+   
+  ul,li{
+    list-style:none;
+  }
+  ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+  }
+  ul li a{
+    text-decoration:none;
+    color:#000;
+    background:#ffc;
+    display:block;
+    height:15em;
+    width:15em;
+    padding:1em;
+  }
+  ul li{
+    margin:1em;
+  }
