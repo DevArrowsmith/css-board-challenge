@@ -107,23 +107,21 @@ h3 {
         grid-area: Layouts;
     }
 }
-
-h2 {
+#Michael
+ {
     margin: 20px auto;
     font-family: 'Lato';
     background:#666;
     color:rgb(0, 0, 0);
   }
+h3 {color: #000;}
+   { color: black;}
    
   *{
     margin:0;
     padding:0;
   }
    
-  h2 {
-    font-weight: bold;
-    font-size: 2rem;
-  }
    
   p {
     font-size: 1rem;
