@@ -181,6 +181,26 @@ h3 {
     transform: rotate(-10deg);
 }
 /***************************************************/
+#steven {
+        background-color: #0089BA;
+        width: 200px;
+        height: 200px;
+        font-weight: bold;
+        transform:rotate(-10deg)
+}
+
+#grid-heading {
+    font-weight: bold;
+    
+}
+
+#Samuel.post-it{
+    background-color: #0089BA;
+    height: 200px;
+    width: 200px;
+    transform: rotate(-3deg);
+}
+
 
 #veeuye.post-it {
   aspect-ratio: 1 / 1;
@@ -229,7 +249,55 @@ li.post-it{
     .dashboard--layouts{
         grid-area: Layouts;
     }
+
+
+   
 }
+
+}
+
+#Michael
+ {
+    margin: 20px auto;
+    font-family: 'Lato';
+    background:#666;
+    color:rgb(0, 0, 0);
+  }
+h3 {color: #000;}
+   { color: black;}
+   
+  *{
+    margin:0;
+    padding:0;
+  }
+   
+   
+  p {
+    font-size: 1rem;
+    font-weight: normal;
+  }
+   
+  ul,li{
+    list-style:none;
+  }
+  ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+  }
+  ul li a{
+    text-decoration:none;
+    color:#000;
+    background:#ffc;
+    display:block;
+    height:15em;
+    width:15em;
+    padding:1em;
+  }
+  ul li{
+    margin:1em;
+  }
+
 
 .post-it{
     height: 200px;
@@ -269,3 +337,4 @@ li.post-it{
   }
 
 }
+
