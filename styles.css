@@ -14,7 +14,7 @@ h3 {
 }
 
 .post-it {
-    box-shadow: 0 8px 6px -6px black;
+    box-shadow: 0 10px 25px -6px gold;
     list-style: none;
     background-color: #FF6F91;
     aspect-ratio: 1/1;
