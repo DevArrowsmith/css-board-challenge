@@ -82,6 +82,7 @@ h3 {
   height: 200px;
   background-color: #0089ba;
   transform: rotate(-10deg);
+  padding: 0.5rem;
 }
 /***************************************************/
 /* MEDIA QUERIES TO ENSURE RESPONSIVENESS */
