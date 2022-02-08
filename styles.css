@@ -85,9 +85,10 @@ h3 {
 
 #ed h3 {
   font-weight: bold;
-
+}
 /* ===========CORA'S POST_IT========== */
 #cora {
+    box-sizing: border-box;
     height: 200px;
     aspect-ratio: 1;
     background-color: #E0EA87;
@@ -122,12 +123,29 @@ h3 {
     font-weight: bold;
 }
 
+#ash {
+    width: 200px;
+    height: 200px;
+    background-color: #E0EA87;
+    transform: rotate(-10deg);
+}
+
+#ash h3 {
+    font-weight: bold;
+}
+
 /***************************************************/
 /* MIXED */
 /***************************************************/
 
 /***************************************************/
 /* LAYOUTS */
+#paulbeard {
+    width: 200px;
+    height: 200px;
+    background-color: #0089BA;
+    transform: rotate(-10deg);
+}
 /***************************************************/
 
 li.post-it{
