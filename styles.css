@@ -14,8 +14,13 @@ h3 {
 }
 
 .post-it {
+    width: 200px;
+    height: 200px;
+    aspect-ratio: 1;
+    background-color: #FF6F91;
     box-shadow: 0 8px 6px -6px black;
     list-style: none;
+    rotate: -20deg;
 }
 
 .dashboard-frame {
