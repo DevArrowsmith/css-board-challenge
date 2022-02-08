@@ -128,6 +128,18 @@ h3 {
     font-weight: bold;
 }
 
+
+
+/***************************************************/
+/* SELECTORS */
+/***************************************************/  
+#ben {
+    height: 200px;
+    width: 200px;
+    background-color: #E0EA87;
+    transform: rotate(-5deg);
+}
+
 #cora p {
     font-family: 'Comforter', cursive;
 }
@@ -146,6 +158,7 @@ h3 {
     font-weight: bold;
 }
 
+
 #ash {
     width: 200px;
     height: 200px;
@@ -156,6 +169,7 @@ h3 {
 #ash h3 {
     font-weight: bold;
 }
+
 
 /***************************************************/
 /* MIXED */
