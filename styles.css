@@ -221,14 +221,10 @@ li {
 
 #Michael {
   margin: 20px auto;
-  font-family: "Lato";
-  color: rgb(0, 0, 0);
-}
-
-li.post-it {
-  background-color: #0089ba;
   height: 200px;
   aspect-ratio: 1 / 1;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
   transform: rotate(9deg);
 }
 
